@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background-color: #6fb9ff;
+    font-family: 'Secular One', sans-serif;
+}
+.title-logo{
+    display: flex;
+    align-items: center;
+}
+.menu > a{
+    margin-left: 8px;
+}
+.football-logo {
+    height: 40px;
+    width: 40px;
+}
